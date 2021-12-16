@@ -263,16 +263,16 @@ _του Βασιλείου Μπεσλεμέ και του Διονυσίου Δ�
 
 <img src="charts2/CacheLineSize-CPI.png"/>
 
-<img src="charts2/CacheLineSize-%IPC.png"/>
+<img src="charts2/CacheLineSize-IPC.png"/>
 
 <img src="charts2/L1DataSize-CPI.png"/>
 
-<img src="charts2/L1DataSize-%IPC.png"/>
+<img src="charts2/L1DataSize-IPC.png"/>
 
 <img src="charts2/L2Size-CPI.png"/>
 
-<img src="charts2/L2Size-%IPC.png"/>
+<img src="charts2/L2Size-IPC.png"/>
 
 <img src="charts2/Association-CPI.png"/>
 
-<img src="charts2/Association-%IPC.png"/>
+<img src="charts2/Association-IPC.png"/>
